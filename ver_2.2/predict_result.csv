@@ -1,0 +1,9 @@
+,Nearest Neighbors,Linear SVM,RBF SVM,Decision Tree,Random Forest,AdaBoost,Naive Bayes,Linear Discriminant Analysis,Quadratic Discriminant Analysis
+USD_JPY,,,,,,,,,
+EUR_JPY,,,,,,,,,
+AUD_JPY,,,,,,,,,
+GBP_JPY,,,,,,,,,
+NZD_JPY,,,,,,,,,
+CAD_JPY,-1.0,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0
+CHF_JPY,1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ZAR_JPY,-1.0,1.0,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0
